@@ -1,10 +1,10 @@
-Line	ntiller
-C	14
-C	14
-C	13
-C	15
-C	14
-C	13
+Line	Ntiller
+Nip	14
+Nip	14
+Nip	13
+Nip	15
+Nip	14
+Nip	13
 Line1	14
 Line1	12
 Line1	13
