@@ -14,12 +14,12 @@ FILE extraparams.
 Basic Program Parameters
 
 #define MAXPOPS    2      // (int) number of populations assumed
-#define BURNIN    1000   // (int) length of burnin period
-#define NUMREPS   2000   // (int) number of MCMC reps after burnin
+#define BURNIN    10000   // (int) length of burnin period
+#define NUMREPS   10000   // (int) number of MCMC reps after burnin
 
 Input/Output files
 
-#define INFILE   OGA_ApeKIMspI_qual_hom_str.txt   // (str) name of input data file
+#define INFILE   data_t.str  // (str) name of input data file
 #define OUTFILE  outfile  //(str) name of output data file
 
 Data file format
